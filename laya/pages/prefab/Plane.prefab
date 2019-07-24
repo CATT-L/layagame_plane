@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":4,
+    "searchKey":"Sprite",
+    "props":{"y":-43,"x":-44,"texture":"images/plane.png","sceneColor":"#cccccc","scaleY":0.5,"scaleX":0.5,"presetID":1,"preset":"laya/pages/prefab/Plane.prefab","isPresetRoot":true},
+    "nodeParent":-1,
+    "maxID":5,
+    "label":"Sprite(Plane)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":4,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}
